@@ -2,7 +2,7 @@
   "name": "ArchitectureDocumentReport",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/DDCSLearning/authenticationIntro.git",
+  "repository": "https://github.com/gokannai/ArchitectureDesignReport.git",
   "author": "Gopi Krishnan (gokannai@in.ibm.com)",
   "license": "none",
   "scripts": {
